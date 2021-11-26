@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(image/1066820.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ul{
+    float:right;
+    list-style-type:none;
+    margin-top:25px;
+
+}
+ul li{
+    display:inline-block;
+}
+ul li a{
+    text-decoration:none;
+    color:darkslategrey;
+    padding:5px 20px;
+    border:1px solid;
+    transition:0.6s;
+    margin-top:10px;
+}
+ul li a:hover{
+    background-color:wheat;
+}
+ul li a:active{
+    background-color:wheat;
+}
+footer{
+    padding: 30px 0;
+    color:aliceblue;
+}

@@ -1,0 +1,212 @@
+body {
+    background: url(image/1191589.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+ul li a{
+    text-decoration:none;
+    color:darkslategrey;
+    padding:5px 20px;
+    border:1px solid;
+    transition:0.6s;
+    margin-top:10px;
+}
+ul li a:hover{
+    background-color:wheat;
+}
+
+ul{
+    float:right;
+    list-style-type:none;
+    margin-top:25px;
+
+}
+ul li{
+    display:inline-block;
+}
+img {
+    width: 80px;
+    height: 80px;
+    border: 2px solid grey;
+}
+.genshin {
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    bottom: 10%;
+}
+.free {
+    float: left;
+    list-style-type: none;
+    margin-top: 25px;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pabji {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    bottom: 10%;
+}
+.fc {
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    bottom: 20%;
+}
+.nba {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    bottom: 10%;
+}
+.wwe {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    bottom: 10%;
+}
+.gow {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    bottom: 10%;
+}
+.watchh {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    bottom: 10%;
+}
+.spider {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    bottom: 10%;
+}
+.creed {
+    position: absolute;
+    top: 20%;
+    left: 70%;
+    bottom: 10%;
+}
+.kombat {
+    position: absolute;
+    top: 20%;
+    left: 80%;
+    bottom: 10%;
+}
+.rdr {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    bottom: 20%;
+}
+.zombie {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    bottom: 20%;
+}
+.rdrr {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    bottom: 20%;
+}
+.pes {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    bottom: 20%;
+}
+.xeno {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    bottom: 20%;
+}
+.naruto {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    bottom: 20%;
+}
+.saints {
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    bottom: 20%;
+}
+.watch {
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    bottom: 20%;
+}
+.paid {
+    position: absolute;
+    top: 60%;
+    bottom: 40%;
+    color: papayawhip;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid;
+}
+.tekken {
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    bottom: 40%;
+}
+.street {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    bottom: 40%;
+}
+.uncharted {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    bottom: 40%;
+}
+.squid {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    bottom: 40%;
+}
+.doa {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    bottom: 40%;
+}
+.skyrim {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    bottom: 40%;
+}
+.yakuza {
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    bottom: 40%;
+}
+.yakuzaa {
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    bottom: 40%;
+}
+.jump {
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    bottom: 40%;
+}

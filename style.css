@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(image/136467.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: url(image/1076950.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 20px;
+    width: 270px;
+    box-shadow: 0 0 10px 5px black;
+}
+.login h2{
+    text-align: center;
+    color:aquamarine;
+}
+form {
+    background: url(image/1076950.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.registrasi {
+    background: url(image/825790.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
